@@ -1,0 +1,34 @@
+/**
+ * @file
+ * Visual styles for book tree.
+ */
+ul.book-tree {
+    list-style: none;
+    padding: 0;
+    margin-left: 1.3em;
+}
+ul.book-tree.level-0 {
+    margin-left: 0em;
+}
+ul.book-tree li {
+    padding-top: 0.8em;
+}
+.book-tree summary {
+    background: inherit;
+    text-shadow: inherit;
+    padding: inherit;
+    outline: none;
+    _padding-bottom: 0.5em
+}
+.book-tree summary:hover {
+}
+.book-tree details {
+    border: inherit;
+    margin: 0;
+}
+.book-tree details > .details-wrapper {
+    padding: 0
+}
+.book-tree details > summary {
+    margin-left: -1em;
+}

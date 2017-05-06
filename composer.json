@@ -1,0 +1,14 @@
+{
+  "name": "drupal/book_tree",
+  "type": "drupal-module",
+  "description": "Collapsible book navigation block",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/book_tree",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/book_tree",
+    "source": "http://cgit.drupalcode.org/book_tree"
+  },
+  "require": { }
+}

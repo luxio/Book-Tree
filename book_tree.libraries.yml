@@ -1,0 +1,9 @@
+book-tree.tree:
+  css:
+    theme:
+      css/book.tree.css: {}
+  js:
+    js/book_tree.js: {}
+  dependencies:
+    - core/jquery
+
